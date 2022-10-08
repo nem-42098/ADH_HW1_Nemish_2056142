@@ -2,7 +2,7 @@
 The content of this repo is organized as follows: 
 
 
-1.__`Solution of Individual Excercise:Multiple Scripts`__:
+ 1.__`Solution of Individual Excercise:Multiple Scripts`__:
  > Each and every excercise is included both in the `excercises1/Problem Name/Problem Name.py` folder (each excercise in a different {Problem Name} folder) 
 
 2. __`Single Scirpts`__:
