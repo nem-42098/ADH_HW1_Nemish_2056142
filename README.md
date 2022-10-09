@@ -1,5 +1,5 @@
 # Nemish Murawat - 2056142
-The content of this repo is organized as follows: 
+The content of this repo is associated with the Homework-1 for the course Algorithms for Data Mining 2022(Sapienza University of Rome:Masters in Data Science) and is organized as follows: 
 
 
 1. __`Solution of Individual Excercise:Multiple Scripts`__:
